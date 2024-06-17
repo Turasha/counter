@@ -1,0 +1,28 @@
+.counter{
+    width: 1000px;
+    height: 700px;
+    text-align: center;
+    margin: 50px auto;
+    background-color: beige;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 50px ;
+}
+#value{
+    font-size: 100px;
+    margin-bottom: 30px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: solid 1px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+}
